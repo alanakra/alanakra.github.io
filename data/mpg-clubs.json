@@ -1,0 +1,1316 @@
+{
+    "championshipClubs": {
+        "mpg_championship_club_1028": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2014": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2014/1/1028.png",
+                        "2015": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2015/1/1028.png",
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/1028.png",
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/1028.png",
+                        "2018": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2018/1/1028.png"
+                    }
+                },
+                "4": {
+                    "jerseys": {
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/4/1028.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/4/1028.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/4/1028_v2.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/1028.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_1028_128x128_24e98d5d9f064d7683e1bf94a6ff6403.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_1028_512x512_013c2db293a7e7a396ad1f0abe537f2e.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_1028",
+            "name": {
+                "fr-FR": "SM Caen",
+                "en-GB": "SM Caen",
+                "es-ES": "SM Caen"
+            },
+            "shortName": "CAE",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/1028.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_1028_128x128_24e98d5d9f064d7683e1bf94a6ff6403.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_1028_512x512_013c2db293a7e7a396ad1f0abe537f2e.png"
+                }
+            }
+        },
+        "mpg_championship_club_11426": {
+            "championships": {
+                "4": {
+                    "active": true,
+                    "jerseys": {
+                        "2022": "https://s3.eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/11426_2.png"
+                    },
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_11426_128x128_50210a833f56ce53ab26e6718222d54c.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_11426_512x512_8631084b5a52228a5651748dd7a6d2d4.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_11426",
+            "name": {
+                "en-GB": "FC Annecy",
+                "es-ES": "FC Annecy",
+                "fr-FR": "FC Annecy"
+            },
+            "shortName": "ANE",
+            "defaultJerseyUrl": "https://s3.eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/11426_2.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_11426_128x128_50210a833f56ce53ab26e6718222d54c.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_11426_512x512_8631084b5a52228a5651748dd7a6d2d4.png"
+                }
+            }
+        },
+        "mpg_championship_club_1163": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2013": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2013/1/1163.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/1163.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_1163_128x128_68cb597f2c3e8701551e8050f952c25c.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_1163_512x512_2295021b8639b77790cf03970c1d4464.png"
+                            }
+                        }
+                    }
+                },
+                "4": {
+                    "jerseys": {
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/4/1163.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/4/1163.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/4/1163.png"
+                    },
+                    "active": false
+                }
+            },
+            "id": "mpg_championship_club_1163",
+            "name": {
+                "fr-FR": "AC Ajaccio",
+                "en-GB": "AC Ajaccio",
+                "es-ES": "AC Ajaccio"
+            },
+            "shortName": "AJA",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/1163.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_1163_128x128_68cb597f2c3e8701551e8050f952c25c.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_1163_512x512_2295021b8639b77790cf03970c1d4464.png"
+                }
+            }
+        },
+        "mpg_championship_club_1245": {
+            "championships": {
+                "4": {
+                    "active": true,
+                    "jerseys": {
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/4/1245.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/4/1245.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/4/1245_v2.png",
+                        "2022": "https://s3.eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/1245_2.png"
+                    },
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_1245_128x128_8a20108f1957254fed30fde630f719db.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_1245_512x512_6d827bcdabea582b6c1c157b75b92405.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_1245",
+            "name": {
+                "en-GB": "Niort",
+                "es-ES": "Niort",
+                "fr-FR": "Niort"
+            },
+            "shortName": "NIO",
+            "defaultJerseyUrl": "https://s3.eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/1245_2.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_1245_128x128_8a20108f1957254fed30fde630f719db.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_1245_512x512_6d827bcdabea582b6c1c157b75b92405.png"
+                }
+            }
+        },
+        "mpg_championship_club_1272": {
+            "championships": {
+                "4": {
+                    "jerseys": {
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/4/1272.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/4/1272.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/4/1272_v2.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/1272.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_1272_128x128_670cae5d53d8235f0391e744f80663f5.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_1272_512x512_2e1410067d97a46566afc8ad9f023e3b.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_1272",
+            "name": {
+                "fr-FR": "Grenoble",
+                "en-GB": "Grenoble",
+                "es-ES": "Grenoble"
+            },
+            "shortName": "GRN",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/1272.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_1272_128x128_670cae5d53d8235f0391e744f80663f5.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_1272_512x512_2e1410067d97a46566afc8ad9f023e3b.png"
+                }
+            }
+        },
+        "mpg_championship_club_138": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/138.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_138_128x128_40f634c6b2088acdd49b4a87a836edf9.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_138_512x512_b1d45679b9da65acfe49c1ae6ad3f20f.png"
+                            }
+                        }
+                    }
+                },
+                "4": {
+                    "jerseys": {
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/4/138.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/4/138.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/4/138_v2.png"
+                    },
+                    "active": false
+                }
+            },
+            "id": "mpg_championship_club_138",
+            "name": {
+                "fr-FR": "AJ Auxerre",
+                "en-GB": "AJ Auxerre",
+                "es-ES": "AJ Auxerre"
+            },
+            "shortName": "AUX",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/138.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_138_128x128_40f634c6b2088acdd49b4a87a836edf9.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_138_512x512_b1d45679b9da65acfe49c1ae6ad3f20f.png"
+                }
+            }
+        },
+        "mpg_championship_club_139": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2013": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2013/1/139.png",
+                        "2014": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2014/1/139.png",
+                        "2015": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2015/1/139.png",
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/139.png"
+                    }
+                },
+                "4": {
+                    "active": true,
+                    "jerseys": {
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/4/139.png",
+                        "2022": "https://s3.eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/139_2.png"
+                    },
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_139_128x128_8fac2fb5b9ebe0a8f6a270ed621738a4.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_139_512x512_81c6043b738c757042a20e444547610d.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_139",
+            "name": {
+                "en-GB": "SC Bastia",
+                "es-ES": "SC Bastia",
+                "fr-FR": "SC Bastia"
+            },
+            "shortName": "BAS",
+            "defaultJerseyUrl": "https://s3.eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/139_2.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_139_128x128_8fac2fb5b9ebe0a8f6a270ed621738a4.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_139_512x512_81c6043b738c757042a20e444547610d.png"
+                }
+            }
+        },
+        "mpg_championship_club_1395": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2013": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2013/1/1395.png",
+                        "2014": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2014/1/1395.png",
+                        "2015": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2015/1/1395.png",
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/1395.png",
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/1395.png",
+                        "2018": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2018/1/1395.png",
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/1395.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/1395.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/1395_v2.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/1395.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_1395_128x128_2110430425fa54e7e0c686a78cb4f50f.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_1395_512x512_fd72e740104e95c15bb4215d910cb8b7.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_1395",
+            "name": {
+                "fr-FR": "OGC Nice",
+                "en-GB": "OGC Nice",
+                "es-ES": "OGC Nice"
+            },
+            "shortName": "NIC",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/1395.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_1395_128x128_2110430425fa54e7e0c686a78cb4f50f.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_1395_512x512_fd72e740104e95c15bb4215d910cb8b7.png"
+                }
+            }
+        },
+        "mpg_championship_club_140": {
+            "championships": {
+                "1": {
+                    "active": false,
+                    "jerseys": {
+                        "2013": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2013/1/140.png",
+                        "2014": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2014/1/140.png",
+                        "2015": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2015/1/140.png",
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/140.png",
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/140.png",
+                        "2018": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2018/1/140.png",
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/140.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/140.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/140_v2.png"
+                    }
+                },
+                "4": {
+                    "active": true,
+                    "jerseys": {
+                        "2022": "https://s3.eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/140_2.png"
+                    },
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_140_128x128_f37100e8fa4078e34925625e260442a7.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_140_512x512_6b5575e166a6406048b8a11e8dbce390.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_140",
+            "name": {
+                "en-GB": "Bordeaux",
+                "es-ES": "Bordeaux",
+                "fr-FR": "Bordeaux"
+            },
+            "shortName": "BOR",
+            "defaultJerseyUrl": "https://s3.eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/140_2.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_140_128x128_f37100e8fa4078e34925625e260442a7.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_140_512x512_6b5575e166a6406048b8a11e8dbce390.png"
+                }
+            }
+        },
+        "mpg_championship_club_141": {
+            "championships": {
+                "4": {
+                    "active": true,
+                    "jerseys": {
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/4/141.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/4/141.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/4/141_v2.png",
+                        "2022": "https://s3.eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/141_2.png"
+                    },
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_141_128x128_df85e6094b4558d73e1bfb605c5da9eb.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_141_512x512_ff1323b025fae1a1ae28fec2e4bf8594.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_141",
+            "name": {
+                "en-GB": "Havre AC",
+                "es-ES": "Havre AC",
+                "fr-FR": "Havre AC"
+            },
+            "shortName": "HAC",
+            "defaultJerseyUrl": "https://s3.eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/141_2.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_141_128x128_df85e6094b4558d73e1bfb605c5da9eb.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_141_512x512_ff1323b025fae1a1ae28fec2e4bf8594.png"
+                }
+            }
+        },
+        "mpg_championship_club_142": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2014": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2014/1/142.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/142.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/142.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/142.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_142_128x128_5902666f2d610f3e48e015fb2f0c29e6.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_142_512x512_50475da96f7a404c9a838b35cd85edb2.png"
+                            }
+                        }
+                    }
+                },
+                "4": {
+                    "jerseys": {
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/4/142.png"
+                    }
+                }
+            },
+            "id": "mpg_championship_club_142",
+            "name": {
+                "fr-FR": "RC Lens",
+                "en-GB": "RC Lens",
+                "es-ES": "RC Lens"
+            },
+            "shortName": "LEN",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/142.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_142_128x128_5902666f2d610f3e48e015fb2f0c29e6.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_142_512x512_50475da96f7a404c9a838b35cd85edb2.png"
+                }
+            }
+        },
+        "mpg_championship_club_1423": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2013": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2013/1/1423.png",
+                        "2014": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2014/1/1423.png",
+                        "2015": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2015/1/1423.png",
+                        "2018": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2018/1/1423.png",
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/1423.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/1423.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/1423_v2.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/1423.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_1423_128x128_45e4c929fde46f8017b00bba4928e5f0.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_1423_512x512_060f5c4f9074ba9de6401dab65079426.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_1423",
+            "name": {
+                "fr-FR": "Reims",
+                "en-GB": "Reims",
+                "es-ES": "Reims"
+            },
+            "shortName": "REI",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/1423.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_1423_128x128_45e4c929fde46f8017b00bba4928e5f0.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_1423_512x512_060f5c4f9074ba9de6401dab65079426.png"
+                }
+            }
+        },
+        "mpg_championship_club_143": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2013": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2013/1/143.png",
+                        "2014": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2014/1/143.png",
+                        "2015": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2015/1/143.png",
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/143.png",
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/143.png",
+                        "2018": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2018/1/143.png",
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/143.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/143.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/143.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/143.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_143_128x128_d4306d5adce561717a4ec372a12c7785.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_143_512x512_5ed6f84fa414cb784a2dfc68588a5800.png"
+                            }
+                        }
+                    }
+                },
+                "6": {
+                    "jerseys": {
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/6/143.png"
+                    }
+                }
+            },
+            "id": "mpg_championship_club_143",
+            "name": {
+                "fr-FR": "OL",
+                "en-GB": "OL",
+                "es-ES": "OL"
+            },
+            "shortName": "OL",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/143.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_143_128x128_d4306d5adce561717a4ec372a12c7785.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_143_512x512_5ed6f84fa414cb784a2dfc68588a5800.png"
+                }
+            }
+        },
+        "mpg_championship_club_1430": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/1430.png",
+                        "2018": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2018/1/1430.png",
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/1430.png"
+                    }
+                },
+                "4": {
+                    "active": true,
+                    "jerseys": {
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/4/1430.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/4/1430_v2.png",
+                        "2022": "https://s3.eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/1430_2.png"
+                    },
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_1430_128x128_483acd087a2db8a443c35a2494a342d3.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_1430_512x512_590d2e44de1632595b3c9359a102458c.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_1430",
+            "name": {
+                "en-GB": "Amiens SC",
+                "es-ES": "Amiens SC",
+                "fr-FR": "Amiens SC"
+            },
+            "shortName": "AMI",
+            "defaultJerseyUrl": "https://s3.eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/1430_2.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_1430_128x128_483acd087a2db8a443c35a2494a342d3.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_1430_512x512_590d2e44de1632595b3c9359a102458c.png"
+                }
+            }
+        },
+        "mpg_championship_club_144": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2013": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2013/1/144.png",
+                        "2014": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2014/1/144.png",
+                        "2015": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2015/1/144.png",
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/144.png",
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/144.png",
+                        "2018": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2018/1/144.png",
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/144.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/144.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/144.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/144.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_144_128x128_30b662b4cbdc39a849846da46bd6f8ff.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_144_512x512_d45a944e3112bf23ce9e1f66a30f0ecd.png"
+                            }
+                        }
+                    }
+                },
+                "6": {
+                    "jerseys": {
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/6/144.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/6/144.png"
+                    },
+                    "active": true
+                }
+            },
+            "id": "mpg_championship_club_144",
+            "name": {
+                "fr-FR": "OM",
+                "en-GB": "OM",
+                "es-ES": "OM"
+            },
+            "shortName": "OM",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/144.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_144_128x128_30b662b4cbdc39a849846da46bd6f8ff.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_144_512x512_d45a944e3112bf23ce9e1f66a30f0ecd.png"
+                }
+            }
+        },
+        "mpg_championship_club_145": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2014": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2014/1/145.png",
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/145.png",
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/145.png",
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/145.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/145.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/145_v2.png"
+                    },
+                    "active": false
+                },
+                "4": {
+                    "jerseys": {
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/145.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_145_128x128_6a71109922019f2950e6d5e51f480579.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_145_512x512_8f5d3105cd59e9a1c4cd6c9f555c61cf.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_145",
+            "name": {
+                "fr-FR": "FC Metz",
+                "en-GB": "FC Metz",
+                "es-ES": "FC Metz"
+            },
+            "shortName": "MET",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/145.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_145_128x128_6a71109922019f2950e6d5e51f480579.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_145_512x512_8f5d3105cd59e9a1c4cd6c9f555c61cf.png"
+                }
+            }
+        },
+        "mpg_championship_club_146": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2013": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2013/1/146.png",
+                        "2014": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2014/1/146.png",
+                        "2015": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2015/1/146.png",
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/146.png",
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/146.png",
+                        "2018": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2018/1/146.png",
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/146.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/146.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/146.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/146.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_146_128x128_48434a029d99a59a4002fae550e22df9.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_146_512x512_e70cbce84d61d59a739a1f9bb4261477.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_146",
+            "name": {
+                "fr-FR": "AS Monaco",
+                "en-GB": "AS Monaco",
+                "es-ES": "AS Monaco"
+            },
+            "shortName": "MON",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/146.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_146_128x128_48434a029d99a59a4002fae550e22df9.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_146_512x512_e70cbce84d61d59a739a1f9bb4261477.png"
+                }
+            }
+        },
+        "mpg_championship_club_147": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2013": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2013/1/147.png",
+                        "2014": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2014/1/147.png",
+                        "2015": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2015/1/147.png",
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/147.png",
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/147.png",
+                        "2018": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2018/1/147.png",
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/147.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/147.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/147_v2.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/147.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_147_128x128_2765f780e6998d1cf9167e3abdf62ca8.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_147_512x512_988a605eab329815dfbc9b738d13f8e3.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_147",
+            "name": {
+                "fr-FR": "Montpellier",
+                "en-GB": "Montpellier",
+                "es-ES": "Montpellier"
+            },
+            "shortName": "MTP",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/147.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_147_128x128_2765f780e6998d1cf9167e3abdf62ca8.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_147_512x512_988a605eab329815dfbc9b738d13f8e3.png"
+                }
+            }
+        },
+        "mpg_championship_club_148": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/148.png"
+                    }
+                },
+                "4": {
+                    "jerseys": {
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/4/148.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/4/148.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/4/148_v2.png"
+                    },
+                    "active": false
+                }
+            },
+            "id": "mpg_championship_club_148",
+            "name": {
+                "fr-FR": "Nancy",
+                "en-GB": "Nancy",
+                "es-ES": "Nancy"
+            },
+            "shortName": "NAC",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/4/148_v2.png",
+            "defaultAssets": null
+        },
+        "mpg_championship_club_149": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2013": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2013/1/149.png",
+                        "2014": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2014/1/149.png",
+                        "2015": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2015/1/149.png",
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/149.png",
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/149.png",
+                        "2018": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2018/1/149.png",
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/149.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/149.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/149.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/149.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_149_128x128_fc84fcf6ae1997b923c98c0eb9348a76.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_149_512x512_be16156d6e457eef5c441db5ba3a284d.png"
+                            }
+                        }
+                    }
+                },
+                "6": {
+                    "jerseys": {
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/6/149.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/6/149.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/6/149.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/6/149.png"
+                    },
+                    "active": true
+                }
+            },
+            "id": "mpg_championship_club_149",
+            "name": {
+                "fr-FR": "Paris SG",
+                "en-GB": "Paris SG",
+                "es-ES": "Paris SG"
+            },
+            "shortName": "PSG",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/149.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_149_128x128_fc84fcf6ae1997b923c98c0eb9348a76.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_149_512x512_be16156d6e457eef5c441db5ba3a284d.png"
+                }
+            }
+        },
+        "mpg_championship_club_150": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2013": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2013/1/150.png",
+                        "2014": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2014/1/150.png",
+                        "2015": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2015/1/150.png",
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/150.png",
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/150.png",
+                        "2018": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2018/1/150.png",
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/150.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/150.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/150_v2.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/150.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_150_128x128_f89caead427a341ac9169b8f308879a2.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_150_512x512_2d01ab68280babc3a1510ec6314f7a15.png"
+                            }
+                        }
+                    }
+                },
+                "6": {
+                    "jerseys": {
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/6/150.png"
+                    },
+                    "active": false
+                }
+            },
+            "id": "mpg_championship_club_150",
+            "name": {
+                "fr-FR": "Rennes",
+                "en-GB": "Rennes",
+                "es-ES": "Rennes"
+            },
+            "shortName": "REN",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/150.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_150_128x128_f89caead427a341ac9169b8f308879a2.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_150_512x512_2d01ab68280babc3a1510ec6314f7a15.png"
+                }
+            }
+        },
+        "mpg_championship_club_152": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2013": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2013/1/152.png",
+                        "2014": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2014/1/152.png",
+                        "2015": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2015/1/152.png",
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/152.png",
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/152.png",
+                        "2018": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2018/1/152.png",
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/152.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/152.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/152.png"
+                    },
+                    "active": false
+                },
+                "4": {
+                    "jerseys": {
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/152.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_152_128x128_f1d133319a7a88ad443c825b5570ed25.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_152_512x512_efeee676d723fca38ba69b915da3a9c5.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_152",
+            "name": {
+                "fr-FR": "Saint-Étienne",
+                "en-GB": "Saint-Étienne",
+                "es-ES": "Saint-Étienne"
+            },
+            "shortName": "STE",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/152.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_152_128x128_f1d133319a7a88ad443c825b5570ed25.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_152_512x512_efeee676d723fca38ba69b915da3a9c5.png"
+                }
+            }
+        },
+        "mpg_championship_club_153": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/153.png",
+                        "2018": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2018/1/153.png",
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/153.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/153.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/153_v2.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/153.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_153_128x128_052e18106f37208eb93552274b6bf6e3.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_153_512x512_c42b16907ec3a990271d254ac80b4006.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_153",
+            "name": {
+                "fr-FR": "Strasbourg",
+                "en-GB": "Strasbourg",
+                "es-ES": "Strasbourg"
+            },
+            "shortName": "SBG",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/153.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_153_128x128_052e18106f37208eb93552274b6bf6e3.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_153_512x512_c42b16907ec3a990271d254ac80b4006.png"
+                }
+            }
+        },
+        "mpg_championship_club_154": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2015": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2015/1/154.png",
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/154.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/154_v2.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/154.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_154_128x128_70c865f286f42cacf0b3ff26eec4a3ac.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_154_512x512_f07922a1f3881ceabb91ffc8073c70a8.png"
+                            }
+                        }
+                    }
+                },
+                "4": {
+                    "jerseys": {
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/4/154.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/4/154.png"
+                    },
+                    "active": false
+                }
+            },
+            "id": "mpg_championship_club_154",
+            "name": {
+                "fr-FR": "Troyes",
+                "en-GB": "Troyes",
+                "es-ES": "Troyes"
+            },
+            "shortName": "TRO",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/154.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_154_128x128_70c865f286f42cacf0b3ff26eec4a3ac.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_154_512x512_f07922a1f3881ceabb91ffc8073c70a8.png"
+                }
+            }
+        },
+        "mpg_championship_club_1983": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/1983_v2.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/1983.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_1983_128x128_f67b8ea0f6c8abfbdff6089460552239.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_1983_512x512_770c6510146bf01ab391a4718b9ba0b9.png"
+                            }
+                        }
+                    }
+                },
+                "4": {
+                    "jerseys": {
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/4/1983.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/4/1983.png"
+                    },
+                    "active": false
+                }
+            },
+            "id": "mpg_championship_club_1983",
+            "name": {
+                "fr-FR": "Clermont",
+                "en-GB": "Clermont",
+                "es-ES": "Clermont"
+            },
+            "shortName": "CLM",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/1983.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_1983_128x128_f67b8ea0f6c8abfbdff6089460552239.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_1983_512x512_770c6510146bf01ab391a4718b9ba0b9.png"
+                }
+            }
+        },
+        "mpg_championship_club_2128": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2015": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2015/1/2128.png",
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/2128.png",
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/2128.png",
+                        "2018": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2018/1/2128.png",
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/2128.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/2128.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/2128.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/2128.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_2128_128x128_4b12869339359e2508e076b2cf5f96fb.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_2128_512x512_d9b498bc7d944169dcece5b3361b030a.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_2128",
+            "name": {
+                "fr-FR": "Angers SCO",
+                "en-GB": "Angers SCO",
+                "es-ES": "Angers SCO"
+            },
+            "shortName": "ANG",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/2128.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_2128_128x128_4b12869339359e2508e076b2cf5f96fb.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_2128_512x512_d9b498bc7d944169dcece5b3361b030a.png"
+                }
+            }
+        },
+        "mpg_championship_club_2130": {
+            "championships": {
+                "1": {
+                    "active": false,
+                    "jerseys": {
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/2130.png",
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/2130.png",
+                        "2018": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2018/1/2130.png",
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/2130.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/2130.png"
+                    }
+                },
+                "4": {
+                    "active": true,
+                    "jerseys": {
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/4/2130_v2.png",
+                        "2022": "https://s3.eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/2130_2.png"
+                    },
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_2130_128x128_3a0a4c2b6f37b4690d324b6db81dd824.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_2130_512x512_2d68ecf437a4c1265e3035788c8d09ad.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_2130",
+            "name": {
+                "en-GB": "Dijon FCO",
+                "es-ES": "Dijon FCO",
+                "fr-FR": "Dijon FCO"
+            },
+            "shortName": "DIJ",
+            "defaultJerseyUrl": "https://s3.eu-west-1.amazonaws.com/image.mpg/jersey/2022/4/2130_2.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_2130_128x128_3a0a4c2b6f37b4690d324b6db81dd824.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_4_2130_512x512_2d68ecf437a4c1265e3035788c8d09ad.png"
+                }
+            }
+        },
+        "mpg_championship_club_427": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2013": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2013/1/427.png",
+                        "2014": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2014/1/427.png",
+                        "2015": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2015/1/427.png",
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/427.png",
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/427.png",
+                        "2018": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2018/1/427.png",
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/427.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/427.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_427_128x128_6f55d61457211112c7f87354d7ec526a.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_427_512x512_a7c0f8bd3102e116a0efa267c9a7d049.png"
+                            }
+                        }
+                    }
+                },
+                "4": {
+                    "jerseys": {
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/4/427.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/4/427.png"
+                    },
+                    "active": false
+                }
+            },
+            "id": "mpg_championship_club_427",
+            "name": {
+                "fr-FR": "Toulouse FC",
+                "en-GB": "Toulouse FC",
+                "es-ES": "Toulouse FC"
+            },
+            "shortName": "TFC",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/427.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_427_128x128_6f55d61457211112c7f87354d7ec526a.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_427_512x512_a7c0f8bd3102e116a0efa267c9a7d049.png"
+                }
+            }
+        },
+        "mpg_championship_club_429": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2013": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2013/1/429.png",
+                        "2014": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2014/1/429.png",
+                        "2015": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2015/1/429.png",
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/429.png",
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/429.png",
+                        "2018": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2018/1/429.png",
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/429.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/429.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/429.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/429.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_429_128x128_8523f0fd366d3ce00ab7c8d327caa962.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_429_512x512_2264f96d40cfc88f4045799730985977.png"
+                            }
+                        }
+                    }
+                },
+                "6": {
+                    "jerseys": {
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/6/429.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/6/429.png"
+                    },
+                    "active": false
+                }
+            },
+            "id": "mpg_championship_club_429",
+            "name": {
+                "fr-FR": "LOSC",
+                "en-GB": "LOSC",
+                "es-ES": "LOSC"
+            },
+            "shortName": "LIL",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/429.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_429_128x128_8523f0fd366d3ce00ab7c8d327caa962.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_429_512x512_2264f96d40cfc88f4045799730985977.png"
+                }
+            }
+        },
+        "mpg_championship_club_430": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2013": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2013/1/430.png",
+                        "2014": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2014/1/430.png",
+                        "2015": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2015/1/430.png",
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/430.png",
+                        "2017": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2017/1/430.png",
+                        "2018": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2018/1/430.png",
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/430.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/430.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/430_v2.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/430.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_430_128x128_94a7c68251031e012be7f776b6a585da.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_430_512x512_fea5ac0b86715527aa76ede58ee1890d.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_430",
+            "name": {
+                "fr-FR": "FC Nantes",
+                "en-GB": "FC Nantes",
+                "es-ES": "FC Nantes"
+            },
+            "shortName": "NAN",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/430.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_430_128x128_94a7c68251031e012be7f776b6a585da.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_430_512x512_fea5ac0b86715527aa76ede58ee1890d.png"
+                }
+            }
+        },
+        "mpg_championship_club_694": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2013": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2013/1/694.png",
+                        "2014": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2014/1/694.png",
+                        "2015": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2015/1/694.png",
+                        "2016": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2016/1/694.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/694.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/694_v2.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/694.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_694_128x128_4ab32bd6e7ee9cf78fac7a8302735521.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_694_512x512_275ad2bc8f09a343e519590e72e8a265.png"
+                            }
+                        }
+                    }
+                },
+                "4": {
+                    "jerseys": {
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/4/694.png"
+                    }
+                }
+            },
+            "id": "mpg_championship_club_694",
+            "name": {
+                "fr-FR": "FC Lorient",
+                "en-GB": "FC Lorient",
+                "es-ES": "FC Lorient"
+            },
+            "shortName": "LOR",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/694.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_694_128x128_4ab32bd6e7ee9cf78fac7a8302735521.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_694_512x512_275ad2bc8f09a343e519590e72e8a265.png"
+                }
+            }
+        },
+        "mpg_championship_club_862": {
+            "championships": {
+                "1": {
+                    "jerseys": {
+                        "2019": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2019/1/862.png",
+                        "2020": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2020/1/862.png",
+                        "2021": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2021/1/862_v2.png",
+                        "2022": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/862.png"
+                    },
+                    "active": true,
+                    "assets": {
+                        "2022": {
+                            "logo": {
+                                "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_862_128x128_e52cd6941304f9466ae53aa2e5f42c6f.png",
+                                "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_862_512x512_85cb1f8d161abb8a3c519db9b645640f.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "id": "mpg_championship_club_862",
+            "name": {
+                "fr-FR": "Brest",
+                "en-GB": "Brest",
+                "es-ES": "Brest"
+            },
+            "shortName": "BRS",
+            "defaultJerseyUrl": "https://s3-eu-west-1.amazonaws.com/image.mpg/jersey/2022/1/862.png",
+            "defaultAssets": {
+                "logo": {
+                    "small": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_862_128x128_e52cd6941304f9466ae53aa2e5f42c6f.png",
+                    "medium": "https://s3.eu-west-1.amazonaws.com/image.mpg/assets/clubs/logo/2022_1_862_512x512_85cb1f8d161abb8a3c519db9b645640f.png"
+                }
+            }
+        }
+    }
+}
